@@ -1,0 +1,18 @@
+Avaliação para Violão Tagima Dallas
+==============================================
+
+Número de preços pesquisados: 72
+Média de preço de todos os produtos: 699.51
+Mediana de todos os preços: 694.0
+Menor preço encontrado: 270.0
+Maior preço encontrado: 1470.0
+============================================
+Avaliação retirando 10% dos valores mais altos e baixos para Violão Tagima Dallas
+==============================================
+
+Número de preços pesquisados: 58
+Média de preço de todos os produtos: 691.9
+Mediana de todos os preços: 694.0
+Menor preço encontrado: 300.0
+Maior preço encontrado: 1299.0
+============================================
